@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pokémon App</string>
+    <string name="to_fav">TO Fav</string>
+    <string name="to_home">to home</string>
+</resources>
